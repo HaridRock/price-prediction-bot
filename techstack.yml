@@ -1,0 +1,188 @@
+repo_name: HaridRock/price-prediction-bot
+report_id: 62bb594f2094fd65232e21294b40fab1
+repo_type: Public
+timestamp: '2023-11-09T13:25:30+00:00'
+requested_by: HaridRock
+provider: github
+branch: main
+detected_tools_count: 14
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source: Repo Metadata
+- name: Dotenv
+  description: Loads environment variables from .env for Nodejs projects
+  website_url: https://github.com/motdotla/dotenv
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Server Configuration and Automation
+  image_url: https://img.stackshare.io/service/8067/default_90dcb1286af7685c68df319c764b80704df1155b.png
+  detection_source: package.json
+  last_updated_by: Jefferson Licet
+  last_updated_on: 2021-10-09 18:40:41.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
+- name: Prettier
+  description: 'Prettier is an opinionated code formatter. '
+  website_url: https://prettier.io/
+  version: 2.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: package-lock.json
+  detection_source: package.json
+  last_updated_by: Jefferson Licet
+  last_updated_on: 2021-10-09 18:40:41.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source: package.json
+  last_updated_by: Jefferson Licet
+  last_updated_on: 2021-10-09 18:40:41.000000000 Z
+- name: Lodash
+  description: A JavaScript utility library
+  website_url: https://lodash.com
+  version: 4.17.21
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/2438/lodash.png
+  detection_source_url: package-lock.json
+  detection_source: package.json
+  last_updated_by: Jefferson Licet
+  last_updated_on: 2021-10-09 18:40:41.000000000 Z
+- name: PonyDebugger
+  description: Remote network and data debugging for your native iOS app using Chrome
+    Developer Tools
+  website_url: https://github.com/square/PonyDebugger
+  open_source: true
+  hosted_saas: false
+  category: Mobile
+  sub_category: Mobile Runtime Inspector
+  image_url: https://img.stackshare.io/service/729/Logo.png
+  detection_source: package.json
+  last_updated_by: Jefferson Licet
+  last_updated_on: 2021-10-09 18:40:41.000000000 Z
+- name: big.js
+  description: A small
+  package_url: https://www.npmjs.com/big.js
+  version: 6.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17724/default_b527ab15473225ca7c2e9b197c9726e92ac97de8.png
+  detection_source_url: package-lock.json
+  detection_source: package.json
+  last_updated_by: Jefferson Licet
+  last_updated_on: 2021-10-09 18:40:41.000000000 Z
+- name: cli-progress
+  description: Easy to use progress-bar for command-line/terminal applications
+  package_url: https://www.npmjs.com/cli-progress
+  version: 3.9.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17710/default_7ff152b9bcf219fad0d56c78a016d5bad6a2a526.png
+  detection_source_url: package-lock.json
+  detection_source: package.json
+  last_updated_by: Jefferson Licet
+  last_updated_on: 2021-10-10 00:27:16.000000000 Z
+- name: cli-table
+  description: Pretty unicode tables for the CLI
+  package_url: https://www.npmjs.com/cli-table
+  version: 0.3.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16477/default_2e7c1d6d94467a56325f7c984571015e8713a450.png
+  detection_source_url: package-lock.json
+  detection_source: package.json
+  last_updated_by: Jefferson Licet
+  last_updated_on: 2021-10-10 00:27:16.000000000 Z
+- name: commander
+  description: The complete solution for node.js command-line programs
+  package_url: https://www.npmjs.com/commander
+  version: 8.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15829/default_50135978d26eba7c09093ceb23b96d522898e4eb.png
+  detection_source_url: package-lock.json
+  detection_source: package.json
+  last_updated_by: Jefferson Licet
+  last_updated_on: 2021-10-09 18:40:41.000000000 Z
+- name: inquirer
+  description: A collection of common interactive command line user interfaces
+  package_url: https://www.npmjs.com/inquirer
+  version: 8.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15911/default_4dc9671df0093fd7061f6455afdf054e6cc9dacb.png
+  detection_source_url: package-lock.json
+  detection_source: package.json
+  last_updated_by: Jefferson Licet
+  last_updated_on: 2021-10-09 18:40:41.000000000 Z
+- name: ora
+  description: Elegant terminal spinner
+  package_url: https://www.npmjs.com/ora
+  version: 5.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15937/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source_url: package-lock.json
+  detection_source: package.json
+  last_updated_by: Jefferson Licet
+  last_updated_on: 2021-10-09 18:40:41.000000000 Z
+- name: web3
+  description: Ethereum JavaScript API
+  package_url: https://www.npmjs.com/web3
+  version: 1.6.0
+  license: LGPL-3.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16369/default_17385ab3aa01d4c295c08d4a9736140df691c5e9.png
+  detection_source_url: package-lock.json
+  detection_source: package.json
+  last_updated_by: Jefferson Licet
+  last_updated_on: 2021-10-09 18:40:41.000000000 Z
